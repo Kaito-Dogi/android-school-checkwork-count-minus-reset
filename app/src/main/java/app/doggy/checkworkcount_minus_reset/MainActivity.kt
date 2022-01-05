@@ -1,8 +1,8 @@
-package app.doggy.checkworkcount_minusreset
+package app.doggy.checkworkcount_minus_reset
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import app.doggy.checkworkcount_minusreset.databinding.ActivityMainBinding
+import app.doggy.checkworkcount_minus_reset.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

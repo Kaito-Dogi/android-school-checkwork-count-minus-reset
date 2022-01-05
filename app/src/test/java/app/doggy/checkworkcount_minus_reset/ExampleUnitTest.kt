@@ -1,4 +1,4 @@
-package app.doggy.checkworkcount_minusreset
+package app.doggy.checkworkcount_minus_reset
 
 import org.junit.Test
 

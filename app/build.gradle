@@ -7,7 +7,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "app.doggy.checkworkcount_minusreset"
+        applicationId "app.doggy.checkworkcount_minus_reset"
         minSdk 23
         targetSdk 31
         versionCode 1
